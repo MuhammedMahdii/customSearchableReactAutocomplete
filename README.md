@@ -34,7 +34,3 @@ src/
 ├── main.tsx
 └── SearchableAutocomplete.tsx
 ```
-
-## 📜 License
-
-MIT
